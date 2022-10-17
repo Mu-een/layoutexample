@@ -15,7 +15,7 @@
 
 #left {
     background-color: darkcyan;
-    width: 400px;
+    max-width: 400px;
     min-height: 100vh;
     float: left;
     
@@ -23,7 +23,7 @@
 
 #right {
     background-color: khaki;
-    width: 300px;
+    max-width: 300px;
     min-height: 100vh;
     float: right;
 }
